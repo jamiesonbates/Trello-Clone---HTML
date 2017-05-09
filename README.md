@@ -19,7 +19,7 @@ surge
 
 You will be prompted with fields/questions. Set them up as you please, but you should change the domain to whatever the name of your app is. For example:
 
-```
+```bash
 domain: my-app.surge.sh
 ```
 
